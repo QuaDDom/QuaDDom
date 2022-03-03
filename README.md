@@ -3,7 +3,7 @@
 <h1 align="center">Hello, im Quaddom</h1>
 <h3 align="center">I am a programmer passionate about design and backend technologies</h3>
 
-- I’m currently working on **Snow Network**
+- ❄️ I’m currently working on **Snow Network**
 
 - 🌱 I’m currently learning **Nextjs**
 
