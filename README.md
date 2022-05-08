@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/Z2NdwdE.jpeg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/u8hFqiO.jpg" height="175px"/></a>
 
 <h1 align="center">Hello, im Quaddom</h1>
 <h3 align="center">I am a programmer passionate about design and backend technologies</h3>
