@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Reactjs, Typescript, Nodejs, Express, CSS, HTML, Tailwind and Sass/Scss**
 
-- 📫 How to reach me **quaddomdev@gmail.com**
+- 📫 How to reach me **matquadev@gmail.com**
 
 - ⚡ Fun fact **I like to discuss about various topics**
 
